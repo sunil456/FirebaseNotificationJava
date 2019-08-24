@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163397813576",
+    "firebase_url": "https://fir-notification-java.firebaseio.com",
+    "project_id": "fir-notification-java",
+    "storage_bucket": "fir-notification-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163397813576:android:65faa93d48cc119b",
+        "android_client_info": {
+          "package_name": "com.sunil.firebasenotificationjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163397813576-5rlkb25ms94trfajp7mr3ia7ai7d01r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQpNh55WacZjw7Osa_2CDEpYiSEmtN3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163397813576-5rlkb25ms94trfajp7mr3ia7ai7d01r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
